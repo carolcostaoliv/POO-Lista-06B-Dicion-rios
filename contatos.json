@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nome": "carol",
+        "email": "carol@gmail",
+        "fone": "23456",
+        "nasc": "2010-01-27"
+    },
+    {
+        "id": 2,
+        "nome": "duda",
+        "email": "duda@gmail",
+        "fone": "1233890",
+        "nasc": "2009-02-02"
+    },
+    {
+        "id": 3,
+        "nome": "camila",
+        "email": "camila@gmail",
+        "fone": "3454901",
+        "nasc": "2002-06-14"
+    }
+]
